@@ -1,0 +1,10 @@
+
+td{border: 2px solid black;}
+th{border: 2px solid black;}
+img{border: 4px solid black;}
+table{border: 3PX solid black;}
+button{ color: rgb(250, 250, 250); }
+html{background-color: rgb(240, 240, 240);}
+
+button{ background-color: rgb(124, 124, 124); color: black; }
+input{ background-color: rgba(78, 87, 87, 0.308); border: 2px solid black;}
